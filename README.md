@@ -1,2 +1,2 @@
 # proto1
-Starter Project (TBA)
+Starter Project (*Advanced Calculator Proto*)
